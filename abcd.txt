@@ -1,3 +1,8 @@
 hello there
 
+<<<<<<< HEAD
 Aindrila loves someone ,but it's secret.
+=======
+sayan is doing something
+
+>>>>>>> 66cdee8d0dc0465030dbbfbbf2100a60e6ad4d0b
